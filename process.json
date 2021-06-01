@@ -1,0 +1,7 @@
+{
+  "apps" : [{
+    "name"        : "Poumki API",
+    "script"      : "server.js",
+    "watch"       : true
+  }]
+}
